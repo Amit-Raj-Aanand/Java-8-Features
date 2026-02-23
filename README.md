@@ -1,8 +1,7 @@
-# Java-8-Feature
+# Java 8 Features 🚀
 Demonstrates Java 8 features such as Stream API, Lambda Expressions, Functional Interfaces, Optional, and Date-Time API with practical examples.
 
-# Java 8 Features 🚀
-
+-/
 This repository demonstrates the core features introduced in Java 8 with practical and well-structured examples.
 
 ## 📌 Features Covered
